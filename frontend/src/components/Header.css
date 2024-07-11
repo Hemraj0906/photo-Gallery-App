@@ -1,0 +1,41 @@
+.header {
+  background-color: #343a40; 
+  padding: 10px 0; 
+}
+
+.navbar {
+  width: 100%; 
+}
+
+.container {
+  max-width: 1200px; 
+  margin: 0 auto; 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-brand {
+  margin-right: 20px; 
+}
+
+.nav-links {
+  list-style-type: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-item {
+  margin-right: 10px; 
+}
+
+.nav-link {
+  color: #ffffff; 
+  text-decoration: none; 
+  padding: 10px; 
+}
+
+.nav-link:hover {
+  text-decoration: underline; 
+}

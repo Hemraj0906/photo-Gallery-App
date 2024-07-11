@@ -1,0 +1,22 @@
+.button-colr{
+    width: 200px;
+    height: 40px;
+    background-color:blueviolet;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left: 80px;
+    border-radius: 10px;
+}
+.fNmae{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 50px;
+}
+.tags{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+}
+.file-chnage{
+    margin-left: 30px;
+}
